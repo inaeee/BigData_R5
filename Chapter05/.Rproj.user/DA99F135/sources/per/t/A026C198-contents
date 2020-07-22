@@ -1,0 +1,1 @@
+print(pnorm(-2, mean=0, sd=1))

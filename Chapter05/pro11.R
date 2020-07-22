@@ -1,0 +1,1 @@
+print(pnorm(3,mean=0,sd=1,lower.tail = F))
